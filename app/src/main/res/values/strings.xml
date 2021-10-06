@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AptitudeTestApplication</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Login\Registration menu -->
+
+    <string name="login_drawer">Аккаунт</string>
+    <string name="user_login_in">Вход</string>
+    <string name="user_sign_up">Регистрация</string>
+    <string name="user_login_out">Выход</string>
+    <string name="user_forgot_password">Забыли пароль?</string>
+    <string name="header_guest_email_text">Войдите или зарегистрируйтесь</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+    <string name="user_login_out_done">Вы успешно вышли из аккаунта</string>
+
+    <!-- Login\Registration Dialog -->
+    <string name="login_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="sign_up_action">Зарегистрироваться</string>
+    <string name="forget_password_action">Забыли пароль?</string>
+    <string name="sign_up_error">Не удалось зарегистрироваться</string>
+    <string name="sign_in_error">Не удалось войти, проверьте email или пароль</string>
+    <string name="send_verification_email_done">На почту было отправлено письмо для подтверждения аккаунта</string>
+    <string name="send_verification_email_error">не удалось отправить email для подтверждения</string>
+    <string name="login_or_password_empty">Оба поля обязательны для заполнения</string>
+    <string name="email_reset_password_was_send">Письмо для восстановления пароля было отправлено на почту</string>
+    <string name="dialog_reset_email_message">Для восстановления пароля укажите ваш email адресс</string>
+    <string name="google_sign_in_done">Вход успешно выполнен</string>
+
+
+    <!-- Errors -->
+    <string name="error_weak_password">Пароль должен быть не менее 6 символов</string>
+    <string name="error_invalid_email">Неверный формат email</string>
+    <string name="error_email_already_in_use">Email уже используется</string>
+
+
+</resources>

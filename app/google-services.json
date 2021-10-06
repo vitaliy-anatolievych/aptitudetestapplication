@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650419570397",
+    "project_id": "aptitude-test-maps-application",
+    "storage_bucket": "aptitude-test-maps-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650419570397:android:ad3838796cb532f9473d34",
+        "android_client_info": {
+          "package_name": "com.vitalii.aptitudetestapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650419570397-mejff2ojkj4obb7ha86pp2f7cceqgs0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitalii.aptitudetestapplication",
+            "certificate_hash": "19967618ea6cf5f475e7f3d5d750153ffd857462"
+          }
+        },
+        {
+          "client_id": "650419570397-4sfmf88kqalcge495acdk5iebo1bb6qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjiIaeJbgFZUNopiya4jye8kuFF1oeMRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650419570397-4sfmf88kqalcge495acdk5iebo1bb6qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
